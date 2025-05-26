@@ -19,7 +19,7 @@ app.use(
     origin:[
       'http://localhost:4200',
       'https://flashcard-pied-eta.vercel.app',
-      'https://4200-firebase-flashcard-1747711336446.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev'
+      'https://4200-firebase-flashcard-1748062049727.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev'
     ]
   })
 )
