@@ -400,27 +400,11 @@
     "addedAt": "2025524"
   },
   {
-    "id": "fe34e2c6-a5f2-4bd9-9a15-3072ab053fc4",
-    "original": "ペン",
-    "hiragana": "ペン",
-    "romaji": "pen",
-    "mean": "pen, pena  ",
-    "addedAt": "2025524"
-  },
-  {
     "id": "e8d09ad3-e0f6-4f7e-a80c-853bc8806fd9",
     "original": "鉛筆",
     "hiragana": "えんぴつ",
     "romaji": "enpitsu",
     "mean": "pencil, pensil  ",
-    "addedAt": "2025524"
-  },
-  {
-    "id": "2272c462-7420-4c80-98ad-90186af73990",
-    "original": "消しゴム",
-    "hiragana": "けしごむ",
-    "romaji": "keshigomu",
-    "mean": "eraser, penghapus  ",
     "addedAt": "2025524"
   },
   {
@@ -848,14 +832,6 @@
     "addedAt": "2025524"
   },
   {
-    "id": "e74ac40d-8594-46de-b8e5-ec15f2ea1b2b",
-    "original": "ホテル",
-    "hiragana": "ホテル",
-    "romaji": "hoteru",
-    "mean": "hotel, hotel  ",
-    "addedAt": "2025524"
-  },
-  {
     "id": "80203fa2-9a99-433d-9b6a-0a295606c443",
     "original": "喫茶店",
     "hiragana": "きっさてん",
@@ -941,14 +917,6 @@
     "hiragana": "はし",
     "romaji": "hashi",
     "mean": "bridge, jembatan  ",
-    "addedAt": "2025524"
-  },
-  {
-    "id": "10ce26cd-a122-4fad-890c-ed15a84aa635",
-    "original": "ビル",
-    "hiragana": "ビル",
-    "romaji": "biru",
-    "mean": "building, gedung  ",
     "addedAt": "2025524"
   },
   {
@@ -1248,14 +1216,6 @@
     "addedAt": "2025524"
   },
   {
-    "id": "96e9634b-b78e-4431-afae-da268ad79276",
-    "original": "パン",
-    "hiragana": "パン",
-    "romaji": "pan",
-    "mean": "bread, roti  ",
-    "addedAt": "2025524"
-  },
-  {
     "id": "550f0960-1034-4c0b-bf30-275e80a3b586",
     "original": "肉",
     "hiragana": "にく",
@@ -1352,43 +1312,11 @@
     "addedAt": "2025524"
   },
   {
-    "id": "81f4009b-9be6-4de8-a15e-f67246bdb8f0",
-    "original": "スプーン",
-    "hiragana": "スプーン",
-    "romaji": "supuun",
-    "mean": "spoon, sendok  ",
-    "addedAt": "2025524"
-  },
-  {
-    "id": "d64fcdbb-cde5-4c90-95d4-1783eba20c0f",
-    "original": "ナイフ",
-    "hiragana": "ナイフ",
-    "romaji": "naifu",
-    "mean": "knife, pisau  ",
-    "addedAt": "2025524"
-  },
-  {
-    "id": "e86b409c-f48a-4c02-9afa-1baa4322af49",
-    "original": "カップ",
-    "hiragana": "カップ",
-    "romaji": "kappu",
-    "mean": "cup, cangkir  ",
-    "addedAt": "2025524"
-  },
-  {
     "id": "2f2458c3-3a9d-4c2c-930e-8a788b947fc2",
     "original": "冷蔵庫",
     "hiragana": "れいぞうこ",
     "romaji": "reizouko",
     "mean": "refrigerator, kulkas  ",
-    "addedAt": "2025524"
-  },
-  {
-    "id": "e094fd66-fc89-4ca6-8aa9-e3cf3da8483d",
-    "original": "電子レンジ",
-    "hiragana": "でんしれんじ",
-    "romaji": "denshi renji",
-    "mean": "microwave, microwave  ",
     "addedAt": "2025524"
   },
   {
@@ -1408,35 +1336,11 @@
     "addedAt": "2025524"
   },
   {
-    "id": "dbb2e190-32c2-448d-957a-a1a2dae43f92",
-    "original": "テレビ",
-    "hiragana": "テレビ",
-    "romaji": "terebi",
-    "mean": "TV, televisi  ",
-    "addedAt": "2025524"
-  },
-  {
-    "id": "72ac410d-d11e-4507-b45c-6f03827939d8",
-    "original": "コンピュータ",
-    "hiragana": "コンピュータ",
-    "romaji": "konpyuuta",
-    "mean": "computer, komputer  ",
-    "addedAt": "2025524"
-  },
-  {
     "id": "2d1c4e5b-aa47-431f-8f9f-36bb823f4eeb",
     "original": "携帯電話",
     "hiragana": "けいたいでんわ",
     "romaji": "keitaidenwa",
     "mean": "mobile phone, ponsel  ",
-    "addedAt": "2025524"
-  },
-  {
-    "id": "9ae2f99b-3f32-4dd0-8bb9-34e301053cef",
-    "original": "ゲーム",
-    "hiragana": "ゲーム",
-    "romaji": "geemu",
-    "mean": "game, permainan  ",
     "addedAt": "2025524"
   },
   {
@@ -1512,22 +1416,6 @@
     "addedAt": "2025524"
   },
   {
-    "id": "9a9ff358-3930-42a0-8bbd-f8a1651856a6",
-    "original": "カレンダー",
-    "hiragana": "カレンダー",
-    "romaji": "karendaa",
-    "mean": "calendar, kalender  ",
-    "addedAt": "2025524"
-  },
-  {
-    "id": "d6987125-cca3-4a62-bfb5-e2f7a33922b9",
-    "original": "メモ",
-    "hiragana": "メモ",
-    "romaji": "memo",
-    "mean": "note, catatan  ",
-    "addedAt": "2025524"
-  },
-  {
     "id": "cd9ca2dd-2bfb-4fdf-a382-3326107a0a64",
     "original": "電気",
     "hiragana": "でんき",
@@ -1549,14 +1437,6 @@
     "hiragana": "すいどう",
     "romaji": "suidou",
     "mean": "water supply, saluran air  ",
-    "addedAt": "2025524"
-  },
-  {
-    "id": "385b2852-679a-4b6a-840d-6ec8ecba1847",
-    "original": "ガス",
-    "hiragana": "ガス",
-    "romaji": "gasu",
-    "mean": "gas, gas  ",
     "addedAt": "2025524"
   },
   {
@@ -2656,14 +2536,6 @@
     "addedAt": "2025524"
   },
   {
-    "id": "35c09b72-9d20-4055-a18c-338079f28e59",
-    "original": "鏡餅",
-    "hiragana": "かがみもち",
-    "romaji": "kagamimochi",
-    "mean": "kue mochi hiasan tahun baru, decorative mochi",
-    "addedAt": "2025524"
-  },
-  {
     "id": "341c5494-547c-48e6-9fb7-7748e7c52cc0",
     "original": "鞘",
     "hiragana": "さや",
@@ -3384,14 +3256,6 @@
     "addedAt": "2025524"
   },
   {
-    "id": "6a53125e-d319-4044-80b9-b887926894c1",
-    "original": "算数ドリル",
-    "hiragana": "さんすうどりる",
-    "romaji": "sansuudoriru",
-    "mean": "arithmetic drill book, buku latihan aritmetika",
-    "addedAt": "2025524"
-  },
-  {
     "id": "d5451b6e-b2d9-43e9-8533-e15ae3807406",
     "original": "弟子",
     "hiragana": "でし",
@@ -3437,14 +3301,6 @@
     "hiragana": "き",
     "romaji": "ki",
     "mean": "tree, pohon",
-    "addedAt": "2025524"
-  },
-  {
-    "id": "43e29dc5-3bea-4e2f-aafd-7fb29e782a23",
-    "original": "算盤玉",
-    "hiragana": "そろばんだま",
-    "romaji": "sorobandama",
-    "mean": "abacus bead, manik sempoa",
     "addedAt": "2025524"
   },
   {
@@ -4120,14 +3976,6 @@
     "addedAt": "2025524"
   },
   {
-    "id": "52717811-b5db-47df-aff7-d0545b44c415",
-    "original": "竹馬",
-    "hiragana": "たけうま",
-    "romaji": "takeuma",
-    "mean": "stilts, kaki katak",
-    "addedAt": "2025524"
-  },
-  {
     "id": "ae272249-32d9-48c9-847a-8f534f8f7de4",
     "original": "麓",
     "hiragana": "ふもと",
@@ -4312,14 +4160,6 @@
     "addedAt": "2025524"
   },
   {
-    "id": "9bb1ca11-958b-4ea0-9ea7-d8654f061ba2",
-    "original": "蝶ネクタイ",
-    "hiragana": "ちょうネクタイ",
-    "romaji": "chou nekutai",
-    "mean": "bow tie, dasi kupu-kupu",
-    "addedAt": "2025524"
-  },
-  {
     "id": "7b149126-5d91-44b8-baac-33b30df20d87",
     "original": "傘",
     "hiragana": "かさ",
@@ -4355,7 +4195,7 @@
     "id": "a0d3b78a-75c6-412a-971b-21514734bf47",
     "original": "銀行口座",
     "hiragana": "ぎんこうこうざ",
-    "romaji": "ginkou kouza",
+    "romaji": "ginkoukouza",
     "mean": "bank account, rekening bank",
     "addedAt": "2025524"
   },
@@ -4627,7 +4467,7 @@
     "id": "a9b7ea86-aedd-4fde-94ae-5a467e44e01b",
     "original": "車椅子",
     "hiragana": "くるまいす",
-    "romaji": "kuruma isu",
+    "romaji": "kurumaisu",
     "mean": "wheelchair, kursi roda",
     "addedAt": "2025524"
   },
@@ -4723,7 +4563,7 @@
     "id": "06a5a9ee-867c-4fc4-9f74-97ecf7d147f0",
     "original": "時計屋",
     "hiragana": "とけいや",
-    "romaji": "tokeya",
+    "romaji": "tokeiya",
     "mean": "watch shop, toko jam",
     "addedAt": "2025524"
   },
@@ -4765,14 +4605,6 @@
     "hiragana": "ぶんぼうぐ",
     "romaji": "bunbougu",
     "mean": "stationery, alat tulis",
-    "addedAt": "2025524"
-  },
-  {
-    "id": "af5f6bdc-e52d-49c2-b7a8-d2613727a546",
-    "original": "雪だるま",
-    "hiragana": "ゆきだるま",
-    "romaji": "yukidaruma",
-    "mean": "snowman, manusia salju",
     "addedAt": "2025524"
   },
   {
@@ -4904,27 +4736,11 @@
     "addedAt": "2025524"
   },
   {
-    "id": "06b6b260-7fe3-4637-871b-4785f426fb00",
-    "original": "蛇腹",
-    "hiragana": "じゃばら",
-    "romaji": "jabara",
-    "mean": "lipatan harmonika, bellows",
-    "addedAt": "2025524"
-  },
-  {
     "id": "c2c1b035-0f69-4b75-a0be-0dd718d2d5d5",
     "original": "炊飯器",
     "hiragana": "すいはんき",
     "romaji": "suihanki",
     "mean": "rice cooker, penanak nasi",
-    "addedAt": "2025524"
-  },
-  {
-    "id": "3e00265b-1c4b-4780-9fee-23093ad7dbc0",
-    "original": "椅子取りゲーム",
-    "hiragana": "いすとりゲーム",
-    "romaji": "isutorigeemu",
-    "mean": "permainan kursi musik, musical chairs",
     "addedAt": "2025524"
   },
   {
@@ -5005,14 +4821,6 @@
     "hiragana": "はちうえ",
     "romaji": "hachiue",
     "mean": "tanaman dalam pot, potted plant",
-    "addedAt": "2025524"
-  },
-  {
-    "id": "6b227b60-38e4-472a-8be4-796cd7644d4d",
-    "original": "墨",
-    "hiragana": "すみ",
-    "romaji": "sumi",
-    "mean": "tinta sumi, ink",
     "addedAt": "2025524"
   },
   {
@@ -5216,14 +5024,6 @@
     "addedAt": "2025524"
   },
   {
-    "id": "888cce62-78f8-4a93-9a6b-c4acd093067b",
-    "original": "歯ブラシ",
-    "hiragana": "はぶらし",
-    "romaji": "haburashi",
-    "mean": "toothbrush, sikat gigi",
-    "addedAt": "2025524"
-  },
-  {
     "id": "a1316892-944f-4da4-81d2-c9654f282544",
     "original": "服屋",
     "hiragana": "ふくや",
@@ -5371,7 +5171,7 @@
     "id": "0e6f0301-2b68-48d9-86ef-75f117417749",
     "original": "修理工",
     "hiragana": "しゅうりこう",
-    "romaji": "shuuri kou",
+    "romaji": "shuurikouu",
     "mean": "repairman, tukang servis",
     "addedAt": "2025524"
   },
@@ -5387,7 +5187,7 @@
     "id": "3a8e75a2-821b-4c8a-8edd-8ad5d689d263",
     "original": "資料館",
     "hiragana": "しりょうかん",
-    "romaji": "shiryokan",
+    "romaji": "shiryoukan",
     "mean": "archive, arsip",
     "addedAt": "2025524"
   },
@@ -5427,7 +5227,7 @@
     "id": "13d8bcda-c95c-499f-81dc-ab296e02c48d",
     "original": "製材所",
     "hiragana": "せいざいじょ",
-    "romaji": "seizai jo",
+    "romaji": "seizaijo",
     "mean": "sawmill, pabrik penggergajian kayu",
     "addedAt": "2025524"
   },
@@ -5507,7 +5307,7 @@
     "id": "72a25f1f-ae2a-4938-85dd-f92fa0f1a941",
     "original": "城下町",
     "hiragana": "じょうかまち",
-    "romaji": "joukamaachi",
+    "romaji": "joukamachi",
     "mean": "castle town, kota benteng",
     "addedAt": "2025524"
   },
@@ -5651,7 +5451,7 @@
     "id": "10e64675-94b8-42ec-8154-329e8c3cca27",
     "original": "海岸線",
     "hiragana": "かいがんせん",
-    "romaji": "kaigansan",
+    "romaji": "kaigansen",
     "mean": "coastline, garis pantai",
     "addedAt": "2025524"
   },
@@ -5936,22 +5736,6 @@
     "addedAt": "2025525"
   },
   {
-    "id": "f2ae3d25-ad69-4c15-962c-4a80c1c29760",
-    "original": "ベッド",
-    "hiragana": "ベッド",
-    "romaji": "beddo",
-    "mean": "ranjang, bed",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "54132067-3b35-467d-950e-ff03be3b97e9",
-    "original": "男の子",
-    "hiragana": "おとこのこ",
-    "romaji": "otokonoko",
-    "mean": "anak laki-laki, boy",
-    "addedAt": "2025525"
-  },
-  {
     "id": "edd5bcef-bfa0-46bd-ac5c-33485f3b2917",
     "original": "動物",
     "hiragana": "どうぶつ",
@@ -6024,14 +5808,6 @@
     "addedAt": "2025525"
   },
   {
-    "id": "50457968-3577-4a8d-a795-845c2ac3c692",
-    "original": "スカート",
-    "hiragana": "スカート",
-    "romaji": "sukaato",
-    "mean": "rok, skirt",
-    "addedAt": "2025525"
-  },
-  {
     "id": "35ac5c1f-d19a-4479-9fbf-95f6da1cd6ca",
     "original": "高い",
     "hiragana": "たかい",
@@ -6056,102 +5832,6 @@
     "addedAt": "2025525"
   },
   {
-    "id": "ecce5c6a-6cae-404c-ac2c-b48d9e391754",
-    "original": "ワイン",
-    "hiragana": "ワイン",
-    "romaji": "wain",
-    "mean": "anggur, wine",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "376b4374-77c5-4371-bafe-c51075f53932",
-    "original": "グラス",
-    "hiragana": "グラス",
-    "romaji": "gurasu",
-    "mean": "gelas, glass",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "cb1c81b1-1963-4762-8650-6838ef03728d",
-    "original": "Tシャツ",
-    "hiragana": "Tシャツ",
-    "romaji": "tiishatsu",
-    "mean": "kaos, T-shirt",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "6127a48d-5f9f-44e6-98d3-4be67d7a67b0",
-    "original": "ジャケット",
-    "hiragana": "ジャケット",
-    "romaji": "jaketto",
-    "mean": "jaket, jacket",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "e85e2209-a63c-43ac-ba92-9dec52e3a5e8",
-    "original": "コート",
-    "hiragana": "コート",
-    "romaji": "kooto",
-    "mean": "mantel, coat",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "5c95fee8-90a5-407a-9a41-4b3355710b5c",
-    "original": "マフラー",
-    "hiragana": "マフラー",
-    "romaji": "mafuraa",
-    "mean": "syal, scarf",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "389ffa58-6304-44bc-9a10-d62b03de0739",
-    "original": "ハサミ",
-    "hiragana": "ハサミ",
-    "romaji": "hasami",
-    "mean": "gunting, scissors",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "0133cdf6-c2f6-4aee-a031-a7468c03c940",
-    "original": "のり",
-    "hiragana": "のり",
-    "romaji": "nori",
-    "mean": "lem, glue",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "10bac56b-4002-49e4-b4b2-22d3fe42f4d8",
-    "original": "テープ",
-    "hiragana": "テープ",
-    "romaji": "teepu",
-    "mean": "selotip, tape",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "6307d19e-ebeb-447e-bfd1-3320de539f2f",
-    "original": "ファックス",
-    "hiragana": "ファックス",
-    "romaji": "fakkusu",
-    "mean": "faks, fax",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "3b9dd52e-675a-4661-bf08-434cdf2f8c1c",
-    "original": "プリンター",
-    "hiragana": "プリンター",
-    "romaji": "purintaa",
-    "mean": "printer, printer",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "54130848-483d-447e-8a64-ebe5ffdefd34",
-    "original": "キーボード",
-    "hiragana": "キーボード",
-    "romaji": "kiiboodo",
-    "mean": "keyboard, keyboard",
-    "addedAt": "2025525"
-  },
-  {
     "id": "ee39dfdc-156f-4a95-a783-45361c6acb62",
     "original": "画面",
     "hiragana": "がめん",
@@ -6168,27 +5848,11 @@
     "addedAt": "2025525"
   },
   {
-    "id": "9e4d6f86-3bf6-4832-b9d2-757454898ffd",
-    "original": "タオル",
-    "hiragana": "タオル",
-    "romaji": "taoru",
-    "mean": "handuk, towel",
-    "addedAt": "2025525"
-  },
-  {
     "id": "26faa072-c483-4425-8dc4-74108b60e0c3",
     "original": "引き出し",
     "hiragana": "ひきだし",
     "romaji": "hikidashi",
     "mean": "laci, drawer",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "049d9287-a665-455f-b5b9-53ff89feb74b",
-    "original": "ゴミ箱",
-    "hiragana": "ゴミばこ",
-    "romaji": "gomibako",
-    "mean": "tempat sampah, trash can",
     "addedAt": "2025525"
   },
   {
@@ -6200,27 +5864,11 @@
     "addedAt": "2025525"
   },
   {
-    "id": "6d823ccb-5e21-4ace-b341-e516dce4f245",
-    "original": "スポンジ",
-    "hiragana": "スポンジ",
-    "romaji": "suponji",
-    "mean": "spons, sponge",
-    "addedAt": "2025525"
-  },
-  {
     "id": "b4bd166b-cbce-49ec-8f97-fcd7a79370dc",
     "original": "食器",
     "hiragana": "しょっき",
     "romaji": "shokki",
     "mean": "peralatan makan, tableware",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "6b28bae1-38f0-457f-865a-1562ebf5804b",
-    "original": "フライパン",
-    "hiragana": "フライパン",
-    "romaji": "furaipan",
-    "mean": "wajan, frying pan",
     "addedAt": "2025525"
   },
   {
@@ -6256,14 +5904,6 @@
     "addedAt": "2025525"
   },
   {
-    "id": "3d17aed9-b17a-45e4-9741-58445191cc5f",
-    "original": "ジュース",
-    "hiragana": "ジュース",
-    "romaji": "juusu",
-    "mean": "jus, juice",
-    "addedAt": "2025525"
-  },
-  {
     "id": "9515a75f-0017-48be-9d68-f671922fce9a",
     "original": "酢",
     "hiragana": "す",
@@ -6277,118 +5917,6 @@
     "hiragana": "みそ",
     "romaji": "miso",
     "mean": "miso, miso paste",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "e28731bd-d5db-467e-8097-3d34e4b41844",
-    "original": "ゾウ",
-    "hiragana": "ゾウ",
-    "romaji": "zou",
-    "mean": "gajah, elephant",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "321c571e-bb46-448b-b8b2-888d3b049beb",
-    "original": "コアラ",
-    "hiragana": "コアラ",
-    "romaji": "koara",
-    "mean": "koala, koala",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "620cec9a-1a64-4232-9ed9-c2341ff7f5e6",
-    "original": "カンガルー",
-    "hiragana": "カンガルー",
-    "romaji": "kangaruu",
-    "mean": "kanguru, kangaroo",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "ad317f0a-d4f6-4afe-8b15-455d487afd9c",
-    "original": "カブトムシ",
-    "hiragana": "カブトムシ",
-    "romaji": "kabutomushi",
-    "mean": "kumbang tanduk, rhinoceros beetle",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "0c85ea01-2022-41e3-8e48-00c786b9911f",
-    "original": "セミ",
-    "hiragana": "セミ",
-    "romaji": "semi",
-    "mean": "jangkrik, cicada",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "40bb6893-e4d3-44b9-a62d-81227e15400f",
-    "original": "ハチ",
-    "hiragana": "ハチ",
-    "romaji": "hachi",
-    "mean": "lebah, bee",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "d2771aa2-fb7a-4b24-8784-edbb4fe5535e",
-    "original": "ハエ",
-    "hiragana": "ハエ",
-    "romaji": "hae",
-    "mean": "lalat, fly",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "eb0ca101-37ed-4b16-b6f6-baac92daaae1",
-    "original": "イヌ",
-    "hiragana": "イヌ",
-    "romaji": "inu",
-    "mean": "anjing, dog",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "4fbacd9b-e75f-4f86-a66f-2f01afedf37d",
-    "original": "ウシ",
-    "hiragana": "ウシ",
-    "romaji": "ushi",
-    "mean": "sapi, cow",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "bc135ffb-9f1e-44c2-b380-bdc67215343c",
-    "original": "ヤギ",
-    "hiragana": "ヤギ",
-    "romaji": "yagi",
-    "mean": "kambing, goat",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "a0e68d4a-18c1-44b7-9e47-2585fdd6b09d",
-    "original": "ワシ",
-    "hiragana": "ワシ",
-    "romaji": "washi",
-    "mean": "elang, eagle",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "22cc04db-d11f-4efb-8976-fa6d47f5603a",
-    "original": "カモメ",
-    "hiragana": "カモメ",
-    "romaji": "kamome",
-    "mean": "camar, seagull",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "70680053-c7ae-4d25-80d8-25b4c5da7287",
-    "original": "クジラ",
-    "hiragana": "クジラ",
-    "romaji": "kujira",
-    "mean": "paus, whale",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "4a8705f7-7edc-415e-93f4-dbd83dcba568",
-    "original": "サンゴ",
-    "hiragana": "サンゴ",
-    "romaji": "sango",
-    "mean": "karang, coral",
     "addedAt": "2025525"
   },
   {
@@ -6776,35 +6304,11 @@
     "addedAt": "2025525"
   },
   {
-    "id": "ef72eb99-11d7-42f1-88ed-642fb8ab8f05",
-    "original": "天ぷら",
-    "hiragana": "てんぷら",
-    "romaji": "tenpura",
-    "mean": "tempura, tempura",
-    "addedAt": "2025525"
-  },
-  {
     "id": "60b45c22-6b26-4da9-aeff-454dc3c5c088",
     "original": "蕎麦",
     "hiragana": "そば",
     "romaji": "soba",
     "mean": "soba, soba",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "80cfd564-f94b-45d3-ade1-4132ae113764",
-    "original": "お好み焼き",
-    "hiragana": "おこのみやき",
-    "romaji": "okonomiyaki",
-    "mean": "okonomiyaki, okonomiyaki",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "5b66e7a2-c431-42c0-970b-70a292468182",
-    "original": "たこ焼き",
-    "hiragana": "たこやき",
-    "romaji": "takoyaki",
-    "mean": "takoyaki, takoyaki",
     "addedAt": "2025525"
   },
   {
@@ -6968,14 +6472,6 @@
     "addedAt": "2025525"
   },
   {
-    "id": "b01311b5-cb7a-4860-8e6a-27f65b66e863",
-    "original": "ワサビ",
-    "hiragana": "ワサビ",
-    "romaji": "wasabi",
-    "mean": "wasabi, wasabi",
-    "addedAt": "2025525"
-  },
-  {
     "id": "7bd370cb-0e29-41fc-90e2-b6c4c59d09be",
     "original": "生姜",
     "hiragana": "しょうが",
@@ -7016,67 +6512,11 @@
     "addedAt": "2025525"
   },
   {
-    "id": "6a821e2f-80d4-4a5e-860a-807bac8a0bfb",
-    "original": "キュウリ",
-    "hiragana": "キュウリ",
-    "romaji": "kyuuri",
-    "mean": "mentimun, cucumber",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "14116d69-bd4f-4c7a-bd72-984fbec47898",
-    "original": "ナス",
-    "hiragana": "ナス",
-    "romaji": "nasu",
-    "mean": "terong, eggplant",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "1a794816-5a06-4dce-a533-52536e9b44bd",
-    "original": "ピーマン",
-    "hiragana": "ピーマン",
-    "romaji": "piiman",
-    "mean": "paprika hijau, green pepper",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "9f3972b3-13d2-4b1f-84db-ea4d292d158b",
-    "original": "ミカン",
-    "hiragana": "ミカン",
-    "romaji": "mikan",
-    "mean": "jeruk, tangerine",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "b8ca928b-ed63-4b9e-96e0-823b1b7171df",
-    "original": "イチゴ",
-    "hiragana": "イチゴ",
-    "romaji": "ichigo",
-    "mean": "stroberi, strawberry",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "e87d2ddc-17ee-4de8-bb4a-6f6af7cce373",
-    "original": "ブドウ",
-    "hiragana": "ブドウ",
-    "romaji": "budou",
-    "mean": "anggur, grape",
-    "addedAt": "2025525"
-  },
-  {
     "id": "d4dce931-cbad-4642-af93-56f4477978e4",
     "original": "モモ",
     "hiragana": "モモ",
     "romaji": "momo",
     "mean": "persik, peach",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "e9f658af-3399-415f-90c2-1acad23ad85d",
-    "original": "オレンジ",
-    "hiragana": "オレンジ",
-    "romaji": "orenji",
-    "mean": "jeruk (buah), orange",
     "addedAt": "2025525"
   },
   {
@@ -7096,115 +6536,11 @@
     "addedAt": "2025525"
   },
   {
-    "id": "2ec15040-a4fc-46dd-aa38-2ba4b0d60fd3",
-    "original": "ソーセージ",
-    "hiragana": "ソーセージ",
-    "romaji": "sooseeji",
-    "mean": "sosis, sausage",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "c2c20cd8-5f29-47c1-8a76-486c4efd3b51",
-    "original": "ヨーグルト",
-    "hiragana": "ヨーグルト",
-    "romaji": "yooguruto",
-    "mean": "yogurt, yogurt",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "fc8db893-1301-4fbb-9953-5a4ac6529f65",
-    "original": "ジャム",
-    "hiragana": "ジャム",
-    "romaji": "jamu",
-    "mean": "selai, jam",
-    "addedAt": "2025525"
-  },
-  {
     "id": "7dd5ac2c-1ef8-41e0-83b0-19be817b96ae",
     "original": "蜂蜜",
     "hiragana": "はちみつ",
     "romaji": "hachimitsu",
     "mean": "madu, honey",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "dab6541c-076b-4031-a12e-974720f1056d",
-    "original": "ソース",
-    "hiragana": "ソース",
-    "romaji": "soosu",
-    "mean": "saus, sauce",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "d4ace346-61e2-474e-93bf-fcb31dd70b7a",
-    "original": "マヨネーズ",
-    "hiragana": "マヨネーズ",
-    "romaji": "mayoneezu",
-    "mean": "mayones, mayonnaise",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "babfb7dd-0dc1-456b-bad3-1e586de20141",
-    "original": "カレー",
-    "hiragana": "カレー",
-    "romaji": "karee",
-    "mean": "kari, curry",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "897d11d1-fae3-4a6a-8a74-ad97774aaaf5",
-    "original": "パンケーキ",
-    "hiragana": "パンケーキ",
-    "romaji": "pankeeki",
-    "mean": "panekuk, pancake",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "30103f53-9311-4b73-a6f3-8297718db88f",
-    "original": "サンドイッチ",
-    "hiragana": "サンドイッチ",
-    "romaji": "sandoicchi",
-    "mean": "roti isi, sandwich",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "c6be5d5c-2337-476c-a4a4-7ecd773fc9ff",
-    "original": "ピザ",
-    "hiragana": "ピザ",
-    "romaji": "piza",
-    "mean": "pizza, pizza",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "4761114c-adc2-4937-9ee8-9071ccb67cdb",
-    "original": "スパゲッティ",
-    "hiragana": "スパゲッティ",
-    "romaji": "supagetti",
-    "mean": "spageti, spaghetti",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "90ac0700-dd1d-41f7-a3ef-08f5e904d816",
-    "original": "クッキー",
-    "hiragana": "クッキー",
-    "romaji": "kukii",
-    "mean": "kue kering, cookie",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "570f1bb9-eda1-4836-9ec9-d70ccec263a0",
-    "original": "チョコレート",
-    "hiragana": "チョコレート",
-    "romaji": "chokoreeto",
-    "mean": "cokelat, chocolate",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "e29f17e5-6ec9-4b65-8345-491130c7719b",
-    "original": "キャンディ",
-    "hiragana": "キャンディ",
-    "romaji": "kyandi",
-    "mean": "permen, candy",
     "addedAt": "2025525"
   },
   {
@@ -7397,14 +6733,6 @@
     "hiragana": "かいわ",
     "romaji": "kaiwa",
     "mean": "percakapan, conversation",
-    "addedAt": "2025525"
-  },
-  {
-    "id": "74d3a3ec-982c-4e13-9b2c-895eab60d3a8",
-    "original": "インターネット",
-    "hiragana": "インターネット",
-    "romaji": "intaanetto",
-    "mean": "internet, internet",
     "addedAt": "2025525"
   },
   {
